@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 How to reach me
+
+1. [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-70632021b/)
