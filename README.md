@@ -8,8 +8,7 @@ I am a Frontend Developer based in Anaheim, CA. My previous work includes creati
 
 [Link](https://uci-inf-133.github.io/a1-personal-website-tuanvnguyen556/)
 
-## How to reach me 📫
+## Reach out to me 📫
 
-
-1. [Email](tuanvnguyen556@gmail.com)
+[📩](tuanvnguyen556@gmail.com)
 2. [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-70632021b/)
