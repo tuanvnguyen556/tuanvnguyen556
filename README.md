@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💼 Check out my portfolio
+
+[Link](https://uci-inf-133.github.io/a1-personal-website-tuanvnguyen556/)
+
 ## 📫 How to reach me
 
-1. [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-70632021b/)
+
+1. [Email](tuanvnguyen556@gmail.com)
+2. [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-70632021b/)
