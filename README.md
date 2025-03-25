@@ -13,6 +13,7 @@ I am a Frontend Developer based in Anaheim, CA. My previous work includes creati
 - [x] HTML
 - [x] CSS
 - [x] Python
+- [x] C/C++ 
 - [x] Java    
 
 ## Check out my portfolio 💼
